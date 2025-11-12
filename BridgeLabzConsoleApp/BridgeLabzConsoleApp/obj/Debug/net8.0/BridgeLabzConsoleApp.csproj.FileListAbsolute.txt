@@ -1,0 +1,15 @@
+C:\Users\karth\OneDrive\Desktop\BridgeLabz-Training-AMTPL\BridgeLabzConsoleApp\BridgeLabzConsoleApp\obj\Debug\net8.0\BridgeLabzConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\OneDrive\Desktop\BridgeLabz-Training-AMTPL\BridgeLabzConsoleApp\BridgeLabzConsoleApp\obj\Debug\net8.0\BridgeLabzConsoleApp.AssemblyInfoInputs.cache
+C:\Users\karth\OneDrive\Desktop\BridgeLabz-Training-AMTPL\BridgeLabzConsoleApp\BridgeLabzConsoleApp\obj\Debug\net8.0\BridgeLabzConsoleApp.AssemblyInfo.cs
+C:\Users\karth\OneDrive\Desktop\BridgeLabz-Training-AMTPL\BridgeLabzConsoleApp\BridgeLabzConsoleApp\obj\Debug\net8.0\BridgeLabzConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\karth\OneDrive\Desktop\BridgeLabz-Training-AMTPL\BridgeLabzConsoleApp\BridgeLabzConsoleApp\obj\Debug\net8.0\BridgeLabzConsoleApp.sourcelink.json
+C:\Users\karth\OneDrive\Desktop\BridgeLabz-Training-AMTPL\BridgeLabzConsoleApp\BridgeLabzConsoleApp\bin\Debug\net8.0\BridgeLabzConsoleApp.exe
+C:\Users\karth\OneDrive\Desktop\BridgeLabz-Training-AMTPL\BridgeLabzConsoleApp\BridgeLabzConsoleApp\bin\Debug\net8.0\BridgeLabzConsoleApp.deps.json
+C:\Users\karth\OneDrive\Desktop\BridgeLabz-Training-AMTPL\BridgeLabzConsoleApp\BridgeLabzConsoleApp\bin\Debug\net8.0\BridgeLabzConsoleApp.runtimeconfig.json
+C:\Users\karth\OneDrive\Desktop\BridgeLabz-Training-AMTPL\BridgeLabzConsoleApp\BridgeLabzConsoleApp\bin\Debug\net8.0\BridgeLabzConsoleApp.dll
+C:\Users\karth\OneDrive\Desktop\BridgeLabz-Training-AMTPL\BridgeLabzConsoleApp\BridgeLabzConsoleApp\bin\Debug\net8.0\BridgeLabzConsoleApp.pdb
+C:\Users\karth\OneDrive\Desktop\BridgeLabz-Training-AMTPL\BridgeLabzConsoleApp\BridgeLabzConsoleApp\obj\Debug\net8.0\BridgeLabzConsoleApp.dll
+C:\Users\karth\OneDrive\Desktop\BridgeLabz-Training-AMTPL\BridgeLabzConsoleApp\BridgeLabzConsoleApp\obj\Debug\net8.0\refint\BridgeLabzConsoleApp.dll
+C:\Users\karth\OneDrive\Desktop\BridgeLabz-Training-AMTPL\BridgeLabzConsoleApp\BridgeLabzConsoleApp\obj\Debug\net8.0\BridgeLabzConsoleApp.pdb
+C:\Users\karth\OneDrive\Desktop\BridgeLabz-Training-AMTPL\BridgeLabzConsoleApp\BridgeLabzConsoleApp\obj\Debug\net8.0\BridgeLabzConsoleApp.genruntimeconfig.cache
+C:\Users\karth\OneDrive\Desktop\BridgeLabz-Training-AMTPL\BridgeLabzConsoleApp\BridgeLabzConsoleApp\obj\Debug\net8.0\ref\BridgeLabzConsoleApp.dll
