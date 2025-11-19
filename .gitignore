@@ -1,0 +1,35 @@
+# ===== Visual Studio Internal Files =====
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.iml
+
+# VS Copilot / Index databases
+**/CopilotIndices/
+**/FileContentIndex/
+*.db
+*.db-wal
+*.db-shm
+
+# ===== Build Output =====
+bin/
+obj/
+Debug/
+Release/
+
+# ===== Temp and Backup Files =====
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# ===== OneDrive Sync Junk =====
+*.one
+*.onetoc2
+~$*
+
+# ===== IDEs (optional but safe) =====
+.vscode/
+.idea/
