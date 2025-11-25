@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeLabzConsoleApp", "BridgeLabzConsoleApp.csproj", "{D23325F8-F7C2-CA17-2EB0-8229A1617735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D23325F8-F7C2-CA17-2EB0-8229A1617735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23325F8-F7C2-CA17-2EB0-8229A1617735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23325F8-F7C2-CA17-2EB0-8229A1617735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23325F8-F7C2-CA17-2EB0-8229A1617735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6144D55-DD83-4F2D-AD71-394A885235E4}
+	EndGlobalSection
+EndGlobal
