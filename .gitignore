@@ -1,14 +1,9 @@
-
-bin/
-obj/
-.vs/
-.vs*/
-# Visual Studio cache
-.vs/
-
 # Build outputs
 bin/
 obj/
+
+# Visual Studio cache
+.vs/
 
 # User-specific files
 *.suo
@@ -16,20 +11,21 @@ obj/
 *.userosscache
 *.sln.docstates
 
-# Database, cache, temp files
+# Backup files
+*.backup.json
+
+# Database / temp files
 *.db
 *.db-shm
 *.db-wal
-
-# Backups
-*.backup.json
 
 # IDE-generated indexes
 **/FileContentIndex/
 **/CopilotIndices/
 **/.dtbcache.v2
 .sln/ide/
-bin/
-obj/
+
+# Executables and binaries
 *.exe
 *.dll
+*.pdb
