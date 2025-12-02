@@ -1,4 +1,70 @@
+# Build outputs
 bin/
 obj/
+
+# Visual Studio
 .vs/
 .vs*/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider / IntelliJ
+.idea/
+*.iml
+
+# Build artifacts
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# Cache / temp
+*.db
+*.db-shm
+*.db-wal
+*.tmp
+
+# Backup files
+*.bak
+*.backup
+*.backup.json
+
+# Auto-generated files
+Generated/
+Generated*/
+GeneratedFiles/
+GeneratedFiles*/
+
+# Publish output
+publish/
+dist/
+
+# VS Code settings
+.vscode/
+
+# File indexing / analysis tools
+**/FileContentIndex/
+**/CopilotIndices/
+**/.dt
+
+# Coverage tools
+coverage/
+*.coverage
+*.coveragexml
+
+# Node (if using)
+node_modules/
+
+# Others
+Thumbs.db
+Desktop.ini
