@@ -22,7 +22,7 @@ namespace BridgeLabzConsoleApp.advoops.deligates
 
         public static void Main()
         {
-
+            Console.WriteLine("Single And MultiCast Delegates ");
             //SayDeligate sd = new SayDeligate(DeligateDemo1.SayHello);
             //sd();
 
